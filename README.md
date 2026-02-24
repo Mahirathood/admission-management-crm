@@ -77,6 +77,11 @@ Built using:
 ## Setup
 
 1. Install dependencies
+2. Create `.env` file
+3. Run server
+   
+Server runs at:
+http://localhost:5000
 
 
 ## AI Assistance Disclosure
