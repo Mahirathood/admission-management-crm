@@ -123,7 +123,6 @@ Displays:
 This project was developed independently as part of a technical assessment.
 
 AI tools (ChatGPT) were used for:
-- Code structuring guidance
 - Debugging assistance
 - Clarification of MongoDB validation logic
 - Improving error handling structure
