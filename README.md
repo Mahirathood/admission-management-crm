@@ -117,3 +117,22 @@ Displays:
 ## Installation & Setup
 
 1. Clone repository
+
+## AI Assistance Disclosure
+
+This project was developed independently as part of a technical assessment.
+
+AI tools (ChatGPT) were used for:
+- Code structuring guidance
+- Debugging assistance
+- Clarification of MongoDB validation logic
+- Improving error handling structure
+
+All business rules, seat validation logic, admission workflow design, and final implementation decisions were fully understood and verified manually by the author.
+
+The candidate is able to explain:
+- Quota validation logic
+- Seat allocation mechanism
+- Admission number generation logic
+- Fee confirmation rule enforcement
+- Dashboard aggregation logic
